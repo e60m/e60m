@@ -1,4 +1,4 @@
-###🏄‍♂️ **Ameer Mahdi**
+#  Ameer Mahdi
 `FiveM Developer and Vehicle Designer`
 
 Welcome! I'm Ameer Mahdi, a FiveM developer specializing in crafting exciting digital worlds and creating lifelike vehicles. I'm also a script programming enthusiast, proficient in Lua, Java, HTML, CSS, JavaScript, and more. You can find me primarily on Discord, where you can join me to explore my digital realms and engage in conversation.
